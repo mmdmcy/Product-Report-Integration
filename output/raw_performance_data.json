@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Metric 1",
+    "value": "82.99212023342591"
+  },
+  {
+    "id": 2,
+    "name": "Metric 2",
+    "value": "85.38515238106004"
+  },
+  {
+    "id": 3,
+    "name": "Metric 3",
+    "value": "87.55848455885742"
+  },
+  {
+    "id": 4,
+    "name": "Metric 4",
+    "value": "85.31523112673402"
+  },
+  {
+    "id": 5,
+    "name": "Metric 5",
+    "value": "80.73648190838156"
+  },
+  {
+    "id": 6,
+    "name": "Metric 6",
+    "value": "98.81626979996726"
+  },
+  {
+    "id": 7,
+    "name": "Metric 7",
+    "value": "86.75193645754723"
+  },
+  {
+    "id": 8,
+    "name": "Metric 8",
+    "value": "96.6259023177099"
+  },
+  {
+    "id": 9,
+    "name": "Metric 9",
+    "value": "80.14632143400839"
+  },
+  {
+    "id": 10,
+    "name": "Metric 10",
+    "value": "83.26367424608272"
+  },
+  {
+    "id": 11,
+    "name": "Metric 11",
+    "value": "80.64408199363491"
+  },
+  {
+    "id": 12,
+    "name": "Metric 12",
+    "value": "92.13547789796337"
+  },
+  {
+    "id": 13,
+    "name": "Metric 13",
+    "value": "89.86161230189761"
+  },
+  {
+    "id": 14,
+    "name": "Metric 14",
+    "value": "97.96129916362504"
+  },
+  {
+    "id": 15,
+    "name": null,
+    "value": null
+  },
+  {
+    "id": null,
+    "name": "Invalid Entry",
+    "value": "error"
+  }
+]

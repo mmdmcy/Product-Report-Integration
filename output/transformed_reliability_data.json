@@ -1,0 +1,65 @@
+[
+  {
+    "identifier": 1,
+    "metric_name": "Component 1",
+    "value": 99.44856377237458,
+    "formatted_value": "99.45%",
+    "status": "Good"
+  },
+  {
+    "identifier": 2,
+    "metric_name": "Component 2",
+    "value": 97.62371907752441,
+    "formatted_value": "97.62%",
+    "status": "Good"
+  },
+  {
+    "identifier": 3,
+    "metric_name": "Component 3",
+    "value": 96.82617413733936,
+    "formatted_value": "96.83%",
+    "status": "Good"
+  },
+  {
+    "identifier": 4,
+    "metric_name": "Component 4",
+    "value": 98.1729044891186,
+    "formatted_value": "98.17%",
+    "status": "Good"
+  },
+  {
+    "identifier": 5,
+    "metric_name": "Component 5",
+    "value": 96.33684126312365,
+    "formatted_value": "96.34%",
+    "status": "Good"
+  },
+  {
+    "identifier": 6,
+    "metric_name": "Component 6",
+    "value": 96.73425250618521,
+    "formatted_value": "96.73%",
+    "status": "Good"
+  },
+  {
+    "identifier": 7,
+    "metric_name": "Component 7",
+    "value": 95.81945084905067,
+    "formatted_value": "95.82%",
+    "status": "Good"
+  },
+  {
+    "identifier": 8,
+    "metric_name": "Component 8",
+    "value": 99.8873974930886,
+    "formatted_value": "99.89%",
+    "status": "Good"
+  },
+  {
+    "identifier": 9,
+    "metric_name": "Component 9",
+    "value": 96.3208260469006,
+    "formatted_value": "96.32%",
+    "status": "Good"
+  }
+]

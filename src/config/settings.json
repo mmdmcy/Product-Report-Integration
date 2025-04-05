@@ -1,0 +1,28 @@
+{
+  "report_generation": {
+    "enabled": true,
+    "frequency": "weekly",
+    "time": "02:00"
+  },
+  "logging": {
+    "level": "INFO",
+    "log_file": "logs/report_generation.log"
+  },
+  "data_sources": {
+    "source_1": {
+      "type": "API",
+      "url": "https://api.example.com/data",
+      "credentials": {
+        "username": "user",
+        "password": "pass"
+      }
+    },
+    "source_2": {
+      "type": "Database",
+      "connection_string": "Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;"
+    }
+  },
+  "report_templates": {
+    "default_template": "templates/default_report_template.html"
+  }
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "identifier": 1,
+    "metric_name": "Item 1",
+    "value": 7.206252910376355,
+    "formatted_value": "7.21%",
+    "status": "Critical"
+  },
+  {
+    "identifier": 2,
+    "metric_name": "Item 2",
+    "value": 39.64071657296748,
+    "formatted_value": "39.64%",
+    "status": "Critical"
+  },
+  {
+    "identifier": 3,
+    "metric_name": "Item 3",
+    "value": 35.609031984023396,
+    "formatted_value": "35.61%",
+    "status": "Critical"
+  },
+  {
+    "identifier": 4,
+    "metric_name": "Item 4",
+    "value": 97.8014091035359,
+    "formatted_value": "97.80%",
+    "status": "Good"
+  },
+  {
+    "identifier": 5,
+    "metric_name": "Item 5",
+    "value": 86.29078854182329,
+    "formatted_value": "86.29%",
+    "status": "Warning"
+  },
+  {
+    "identifier": 6,
+    "metric_name": "Item 6",
+    "value": 91.74077991023417,
+    "formatted_value": "91.74%",
+    "status": "Good"
+  },
+  {
+    "identifier": 7,
+    "metric_name": "Item 7",
+    "value": 70.69122104926646,
+    "formatted_value": "70.69%",
+    "status": "Critical"
+  }
+]

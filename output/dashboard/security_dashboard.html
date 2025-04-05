@@ -1,0 +1,216 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Security Status Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        .dashboard {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .summary {
+            display: flex;
+            justify-content: space-around;
+            margin: 20px 0;
+            text-align: center;
+        }
+        .summary-item {
+            padding: 15px;
+            border-radius: 5px;
+            width: 30%;
+        }
+        .critical {
+            background-color: #ffdddd;
+            color: #d8000c;
+            border-left: 6px solid #d8000c;
+        }
+        .warning {
+            background-color: #feefb3;
+            color: #9f6000;
+            border-left: 6px solid #9f6000;
+        }
+        .good {
+            background-color: #dff2bf;
+            color: #4f8a10;
+            border-left: 6px solid #4f8a10;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        .progress-bar {
+            height: 20px;
+            background-color: #e0e0e0;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        .progress {
+            height: 100%;
+            text-align: center;
+            color: white;
+            font-weight: bold;
+        }
+        .status-critical {
+            background-color: #d8000c;
+        }
+        .status-warning {
+            background-color: #9f6000;
+        }
+        .status-good {
+            background-color: #4f8a10;
+        }
+        .attention {
+            font-weight: bold;
+            color: #d8000c;
+        }
+        .date {
+            text-align: right;
+            color: #666;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard">
+        <h1>Security Status Dashboard</h1>
+        <p class="date">Generated on: 2025-04-05 13:41:35</p>
+        
+        <div class="summary">
+
+            <div class="summary-item critical">
+                <h2>4</h2>
+                <p>Critical Issues</p>
+            </div>
+            <div class="summary-item warning">
+                <h2>1</h2>
+                <p>Warning Issues</p>
+            </div>
+            <div class="summary-item good">
+                <h2>2</h2>
+                <p>Good Status</p>
+            </div>
+        </div>
+
+        <h2>Security Items Detail</h2>
+        <table>
+            <tr>
+                <th>Item Name</th>
+                <th>Value</th>
+                <th>Status</th>
+                <th>Progress</th>
+                <th>Action Required</th>
+            </tr>
+
+            <tr>
+                <td>Item 1</td>
+                <td>7.21%</td>
+                <td>Critical</td>
+                <td>
+                    <div class="progress-bar">
+                        <div class="progress status-critical" style="width: 7.206252910376355%">7.21%</div>
+                    </div>
+                </td>
+                <td class="attention">IMMEDIATE ACTION REQUIRED</td>
+            </tr>
+    
+            <tr>
+                <td>Item 2</td>
+                <td>39.64%</td>
+                <td>Critical</td>
+                <td>
+                    <div class="progress-bar">
+                        <div class="progress status-critical" style="width: 39.64071657296748%">39.64%</div>
+                    </div>
+                </td>
+                <td class="attention">IMMEDIATE ACTION REQUIRED</td>
+            </tr>
+    
+            <tr>
+                <td>Item 3</td>
+                <td>35.61%</td>
+                <td>Critical</td>
+                <td>
+                    <div class="progress-bar">
+                        <div class="progress status-critical" style="width: 35.609031984023396%">35.61%</div>
+                    </div>
+                </td>
+                <td class="attention">IMMEDIATE ACTION REQUIRED</td>
+            </tr>
+    
+            <tr>
+                <td>Item 7</td>
+                <td>70.69%</td>
+                <td>Critical</td>
+                <td>
+                    <div class="progress-bar">
+                        <div class="progress status-critical" style="width: 70.69122104926646%">70.69%</div>
+                    </div>
+                </td>
+                <td class="attention">IMMEDIATE ACTION REQUIRED</td>
+            </tr>
+    
+            <tr>
+                <td>Item 5</td>
+                <td>86.29%</td>
+                <td>Warning</td>
+                <td>
+                    <div class="progress-bar">
+                        <div class="progress status-warning" style="width: 86.29078854182329%">86.29%</div>
+                    </div>
+                </td>
+                <td class="">Monitor and improve</td>
+            </tr>
+    
+            <tr>
+                <td>Item 4</td>
+                <td>97.80%</td>
+                <td>Good</td>
+                <td>
+                    <div class="progress-bar">
+                        <div class="progress status-good" style="width: 97.8014091035359%">97.80%</div>
+                    </div>
+                </td>
+                <td class="">No action needed</td>
+            </tr>
+    
+            <tr>
+                <td>Item 6</td>
+                <td>91.74%</td>
+                <td>Good</td>
+                <td>
+                    <div class="progress-bar">
+                        <div class="progress status-good" style="width: 91.74077991023417%">91.74%</div>
+                    </div>
+                </td>
+                <td class="">No action needed</td>
+            </tr>
+    
+        </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,56 @@
+INFO: Starting processing workflow for performance
+INFO: Processing data source: performance
+INFO: Fetching data from performance
+INFO: Retrieved 16 records from performance
+INFO: Cleaning 16 records from performance
+INFO: After cleaning: 14 records remain
+INFO: Transforming data from performance
+INFO: Transformation complete: 14 records processed
+INFO: Completed processing workflow for performance
+INFO: Starting processing workflow for reliability
+INFO: Processing data source: reliability
+INFO: Fetching data from reliability
+INFO: Retrieved 11 records from reliability
+INFO: Cleaning 11 records from reliability
+INFO: After cleaning: 9 records remain
+INFO: Transforming data from reliability
+INFO: Transformation complete: 9 records processed
+INFO: Completed processing workflow for reliability
+INFO: Starting processing workflow for security
+INFO: Processing data source: security
+INFO: Fetching data from security
+INFO: Retrieved 9 records from security
+INFO: Cleaning 9 records from security
+INFO: After cleaning: 7 records remain
+INFO: Transforming data from security
+INFO: Transformation complete: 7 records processed
+INFO: Completed processing workflow for security
+INFO: Data processing complete. Consolidated data saved to output/consolidated_report_data.json
+INFO: Starting processing workflow for performance
+INFO: Processing data source: performance
+INFO: Fetching data from performance
+INFO: Retrieved 16 records from performance
+INFO: Cleaning 16 records from performance
+INFO: After cleaning: 14 records remain
+INFO: Transforming data from performance
+INFO: Transformation complete: 14 records processed
+INFO: Completed processing workflow for performance
+INFO: Starting processing workflow for reliability
+INFO: Processing data source: reliability
+INFO: Fetching data from reliability
+INFO: Retrieved 11 records from reliability
+INFO: Cleaning 11 records from reliability
+INFO: After cleaning: 9 records remain
+INFO: Transforming data from reliability
+INFO: Transformation complete: 9 records processed
+INFO: Completed processing workflow for reliability
+INFO: Starting processing workflow for security
+INFO: Processing data source: security
+INFO: Fetching data from security
+INFO: Retrieved 9 records from security
+INFO: Cleaning 9 records from security
+INFO: After cleaning: 7 records remain
+INFO: Transforming data from security
+INFO: Transformation complete: 7 records processed
+INFO: Completed processing workflow for security
+INFO: Data processing complete. Consolidated data saved to output/consolidated_report_data.json

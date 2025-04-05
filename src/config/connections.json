@@ -1,0 +1,24 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "username": "your_username",
+    "password": "your_password",
+    "database_name": "product_report_db"
+  },
+  "api": {
+    "base_url": "https://api.example.com",
+    "timeout": 30,
+    "api_key": "your_api_key"
+  },
+  "external_services": {
+    "service_1": {
+      "url": "https://service1.example.com",
+      "api_key": "service1_api_key"
+    },
+    "service_2": {
+      "url": "https://service2.example.com",
+      "api_key": "service2_api_key"
+    }
+  }
+}

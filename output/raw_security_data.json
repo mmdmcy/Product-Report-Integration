@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Item 1",
+    "value": "7.206252910376355"
+  },
+  {
+    "id": 2,
+    "name": "Item 2",
+    "value": "39.64071657296748"
+  },
+  {
+    "id": 3,
+    "name": "Item 3",
+    "value": "35.609031984023396"
+  },
+  {
+    "id": 4,
+    "name": "Item 4",
+    "value": "97.8014091035359"
+  },
+  {
+    "id": 5,
+    "name": "Item 5",
+    "value": "86.29078854182329"
+  },
+  {
+    "id": 6,
+    "name": "Item 6",
+    "value": "91.74077991023417"
+  },
+  {
+    "id": 7,
+    "name": "Item 7",
+    "value": "70.69122104926646"
+  },
+  {
+    "id": 8,
+    "name": null,
+    "value": null
+  },
+  {
+    "id": null,
+    "name": "Invalid Entry",
+    "value": "error"
+  }
+]

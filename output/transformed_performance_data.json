@@ -1,0 +1,100 @@
+[
+  {
+    "identifier": 1,
+    "metric_name": "Metric 1",
+    "value": 82.99212023342591,
+    "formatted_value": "82.99%",
+    "status": "Warning"
+  },
+  {
+    "identifier": 2,
+    "metric_name": "Metric 2",
+    "value": 85.38515238106004,
+    "formatted_value": "85.39%",
+    "status": "Warning"
+  },
+  {
+    "identifier": 3,
+    "metric_name": "Metric 3",
+    "value": 87.55848455885742,
+    "formatted_value": "87.56%",
+    "status": "Warning"
+  },
+  {
+    "identifier": 4,
+    "metric_name": "Metric 4",
+    "value": 85.31523112673402,
+    "formatted_value": "85.32%",
+    "status": "Warning"
+  },
+  {
+    "identifier": 5,
+    "metric_name": "Metric 5",
+    "value": 80.73648190838156,
+    "formatted_value": "80.74%",
+    "status": "Warning"
+  },
+  {
+    "identifier": 6,
+    "metric_name": "Metric 6",
+    "value": 98.81626979996726,
+    "formatted_value": "98.82%",
+    "status": "Good"
+  },
+  {
+    "identifier": 7,
+    "metric_name": "Metric 7",
+    "value": 86.75193645754723,
+    "formatted_value": "86.75%",
+    "status": "Warning"
+  },
+  {
+    "identifier": 8,
+    "metric_name": "Metric 8",
+    "value": 96.6259023177099,
+    "formatted_value": "96.63%",
+    "status": "Good"
+  },
+  {
+    "identifier": 9,
+    "metric_name": "Metric 9",
+    "value": 80.14632143400839,
+    "formatted_value": "80.15%",
+    "status": "Warning"
+  },
+  {
+    "identifier": 10,
+    "metric_name": "Metric 10",
+    "value": 83.26367424608272,
+    "formatted_value": "83.26%",
+    "status": "Warning"
+  },
+  {
+    "identifier": 11,
+    "metric_name": "Metric 11",
+    "value": 80.64408199363491,
+    "formatted_value": "80.64%",
+    "status": "Warning"
+  },
+  {
+    "identifier": 12,
+    "metric_name": "Metric 12",
+    "value": 92.13547789796337,
+    "formatted_value": "92.14%",
+    "status": "Good"
+  },
+  {
+    "identifier": 13,
+    "metric_name": "Metric 13",
+    "value": 89.86161230189761,
+    "formatted_value": "89.86%",
+    "status": "Warning"
+  },
+  {
+    "identifier": 14,
+    "metric_name": "Metric 14",
+    "value": 97.96129916362504,
+    "formatted_value": "97.96%",
+    "status": "Good"
+  }
+]

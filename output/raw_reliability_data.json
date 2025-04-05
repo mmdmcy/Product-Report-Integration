@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Component 1",
+    "value": "99.44856377237458"
+  },
+  {
+    "id": 2,
+    "name": "Component 2",
+    "value": "97.62371907752441"
+  },
+  {
+    "id": 3,
+    "name": "Component 3",
+    "value": "96.82617413733936"
+  },
+  {
+    "id": 4,
+    "name": "Component 4",
+    "value": "98.1729044891186"
+  },
+  {
+    "id": 5,
+    "name": "Component 5",
+    "value": "96.33684126312365"
+  },
+  {
+    "id": 6,
+    "name": "Component 6",
+    "value": "96.73425250618521"
+  },
+  {
+    "id": 7,
+    "name": "Component 7",
+    "value": "95.81945084905067"
+  },
+  {
+    "id": 8,
+    "name": "Component 8",
+    "value": "99.8873974930886"
+  },
+  {
+    "id": 9,
+    "name": "Component 9",
+    "value": "96.3208260469006"
+  },
+  {
+    "id": 10,
+    "name": null,
+    "value": null
+  },
+  {
+    "id": null,
+    "name": "Invalid Entry",
+    "value": "error"
+  }
+]
